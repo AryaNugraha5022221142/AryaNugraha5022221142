@@ -5,4 +5,7 @@ I'm **Arya**, an electrical engineering student based in Surabaya, Indonesia. I 
 **Tools & Tech:**
 - Languages: Python, MATLAB, SQL, R
 - Control & Sim: Simulink, scipy
-- Others: Git, Jupyter, Excel 
+- Others: Git, Jupyter, Excel
+
+**Hobbies**
+Musics, Films, Books
