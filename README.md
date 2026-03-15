@@ -8,4 +8,4 @@ I'm **Arya**, an electrical engineering student based in Surabaya, Indonesia. I 
 - Others: Git, Jupyter, Excel
 
 **Hobbies**
-- Musics, Films, Books, Writing
+Musics, Films, Books, Writing
